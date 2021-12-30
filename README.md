@@ -2,6 +2,6 @@ Open the the "assignment1.ipynb"
 
 All instructions for the homework are written inside the notebook.
 
-Use the following Overleaf template for your final PDF-report:
+CS331 homework template on Overleaf can be found here: https://www.overleaf.com/read/ybgqzfrjkzns
 
-https://www.overleaf.com/latex/templates/cs331-homework-report-template/xzjjgbyrgdzd
+How to copy a project to your own account: https://www.overleaf.com/learn/how-to/Copying_a_project#Making_a_copy_of_a_project
