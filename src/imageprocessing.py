@@ -5,8 +5,10 @@ import skimage.transform
 import cv2
 import matplotlib.pyplot as plt
 
+# You might need to create the directory (output)
+# and commit the complete folder after completing
+# the HW.
 savedir = '//output//'
-
 
 def save_fig_as_png(figtitle):
     '''
